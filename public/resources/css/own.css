@@ -1,0 +1,11 @@
+.bg-login{
+    background-image: url(../assets/morgan-codes-wallpaper.png);
+    background-repeat: no-repeat;
+    height: 94.5vh;
+    object-fit: contain;
+   
+}
+.login-width {
+    width: 55%;
+    margin-left: 25%;
+}
